@@ -22,7 +22,7 @@ Tenho buscado aprofundar meus fundamentos em Go, SQL, lógica de programação, 
 **Frontend:** React, TypeScript, JavaScript, Vite  
 **Ferramentas:** Docker, GitHub Actions, Git, Makefile, Python  
 
-## Projetos em destaque
+## Projetos
 
 ### AfterSports
 MVP acadêmico de uma plataforma web para escolas e instrutores esportivos, com cadastro de aulas, instrutores e reservas.
